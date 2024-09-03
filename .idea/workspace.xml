@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92218b4f-2f9e-469c-9622-e89843caf61c" name="Changes" comment="Stater project">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/char.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/floating.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/konversieksplisit.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/literalkonstan.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/literalunderscore.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/representasi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tipedata.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/varval.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boolean.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chareksplisit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/string.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725341332387</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Stater project">
+      <created>1725349242103</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725349242103</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
