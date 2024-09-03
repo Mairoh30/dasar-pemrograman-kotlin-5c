@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92218b4f-2f9e-469c-9622-e89843caf61c" name="Changes" comment="Stater project">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/variabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/variabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/char.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/floating.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/konversieksplisit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/literalkonstan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/literalunderscore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/representasi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/tipedata.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/varval.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +44,30 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VariabelKt">
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+  <component name="RunManager" selected="Kotlin.RepresentasiKt">
+    <configuration name="FloatingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FloatingKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="LiteralkonstanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LiteralkonstanKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LiteralunderscoreKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LiteralunderscoreKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,9 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RepresentasiKt" />
+        <item itemvalue="Kotlin.LiteralunderscoreKt" />
+        <item itemvalue="Kotlin.LiteralkonstanKt" />
+        <item itemvalue="Kotlin.FloatingKt" />
         <item itemvalue="Kotlin.VariabelKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725341113826</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Stater project">
+      <created>1725341332387</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725341332387</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
