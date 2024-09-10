@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92218b4f-2f9e-469c-9622-e89843caf61c" name="Changes" comment="Stater project">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/caesarchiper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/merubahstring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/perintahkotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/sandimorse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringdollar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringhapusspasi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringkonsonan.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stringobjek.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/comment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/comment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/representasi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/representasi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/string+.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/string+.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +39,30 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.StringtripplequotesKt">
-    <configuration name="LiteralkonstanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralkonstanKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LiteralunderscoreKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralunderscoreKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.StringobjekKt">
     <configuration name="String_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String_Kt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringdollarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringdollarKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringhapusspasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringhapusspasiKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringobjekKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringobjekKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringobjekKt" />
+        <item itemvalue="Kotlin.StringdollarKt" />
+        <item itemvalue="Kotlin.StringhapusspasiKt" />
         <item itemvalue="Kotlin.StringtripplequotesKt" />
         <item itemvalue="Kotlin.String_Kt" />
-        <item itemvalue="Kotlin.RepresentasiKt" />
-        <item itemvalue="Kotlin.LiteralunderscoreKt" />
-        <item itemvalue="Kotlin.LiteralkonstanKt" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725863696338</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Stater project">
+      <created>1725900698235</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725900698235</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
