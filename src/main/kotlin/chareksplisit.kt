@@ -4,10 +4,8 @@ fun main(args: Array<String>) {
     var i: Int //ordinal (ASCII) value of the character
     //conversion from text to Ascii value
     c = 'a'
-    i = c.toInt()
+    i = c.toInt() //bisa pakai code
     println("The character $c was converted to its ASCII value of $i")
-
-
     //conversion from an ASCII value to text
     i = 98
     c = i.toChar()
