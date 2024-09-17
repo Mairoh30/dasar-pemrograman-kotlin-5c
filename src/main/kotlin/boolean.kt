@@ -3,4 +3,7 @@ fun main(args: Array<String>) {
     if(varBool)
         println("varBool bernilai " + varBool)
     var varInt : Int = 1
+    if(varBool)
+        println("varInt bernilai " + varInt)
+
 }
