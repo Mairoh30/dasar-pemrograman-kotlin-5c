@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="92218b4f-2f9e-469c-9622-e89843caf61c" name="Changes" comment="Stater project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/stringdollar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/stringdollar.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.StringdollarKt">
+  <component name="RunManager" selected="Kotlin.StringobjekKt">
     <configuration name="CharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharKt" />
       <module name="DasarPemrogramanKotlin5C" />
@@ -47,13 +46,6 @@
     </configuration>
     <configuration name="ChareksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChareksplisitKt" />
-      <module name="DasarPemrogramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KonversieksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversieksplisitKt" />
       <module name="DasarPemrogramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringobjekKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringobjekKt" />
+      <module name="DasarPemrogramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StringobjekKt" />
         <item itemvalue="Kotlin.StringdollarKt" />
         <item itemvalue="Kotlin.StringhapusspasiKt" />
         <item itemvalue="Kotlin.ChareksplisitKt" />
         <item itemvalue="Kotlin.CharKt" />
-        <item itemvalue="Kotlin.KonversieksplisitKt" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726539493836</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Stater project">
+      <created>1726540178223</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726540178223</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

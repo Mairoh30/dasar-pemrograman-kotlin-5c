@@ -7,6 +7,7 @@ fun main(args: Array<String>) {
 
     //toUpperCase() and toLowerCase()
     var config = "Fullscreen shaDows autosave"
+    config = config.lowercase()
     println("Will the game run in fullscreen?")
     println(config.contains("fullscreen"))
     println("Will shadows be turned on?")
